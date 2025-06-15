@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express-session": "^1.18.1"
+    "body-parser": "^2.2.0",
+    "bwip-js": "^4.6.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "pdfkit": "^0.17.1"
   }
 }
